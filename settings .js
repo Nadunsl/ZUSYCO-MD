@@ -16,11 +16,11 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "+94761236139",
-  SUDO_NUMBERS : "+94781352903",
-  OWNER_NAME: "『 Mr Sudda 』",
-  BOT_NAME : "SUDDA MD",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  OWNER_NUMBER: "+255 747 767 661",
+  SUDO_NUMBERS : "+255 747 767 661",
+  OWNER_NAME: "『 Travis kid 』",
+  BOT_NAME : "Travis MD",
+  ZUSYCO_FILE : "ZUSYCO-QR.nima",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
@@ -35,7 +35,7 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : true,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ SUDDA MD',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Travis MD',
   STICKER_PACK : '[ NADUNMD ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD :    true,
@@ -53,7 +53,7 @@ module.exports = {
      STATUS : true,
   },
   BOT_OFFLINE : false,
-  INBOX_BLOCK : true,
+  INBOX_BLOCK : false,
   AUTO_REACT : true,
   OWNER_REACT : '☘️',
   AUTO_BGM : true,
